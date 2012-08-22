@@ -11,6 +11,8 @@ license: MIT-style license.
 
 requires: [Slider]
 
+provides: MSlider
+
 ...
 */
 
