@@ -5,7 +5,8 @@ Mootools Slider extension for mobile devices
 
 Makes the Mootools Slider and Drag classes touchfriendly.
 
-Usage:
+How to use
+----------
 
     new MSlider(sliderElement, knobElement[, {}]);
     
