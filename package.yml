@@ -1,0 +1,20 @@
+name: "Slider touch"
+
+exports: "touch_slider.js"
+
+web: "[wemakeapplejuice.be](http://wemakeapplejuice.be)"
+
+description: "Adds touch to the Mootools Slider and Drag classes"
+
+license: "[MIT License](http://mootools.net/license.txt)"
+
+copyright: "&copy; [Michaël Boué](http://wemakeapplejuice.be/)"
+
+author: "Michaël Boué"
+authors: "[Michaël Boué](http://wemakeapplejuice.be)"
+category: Utilities
+tags: [mobile, browser, touch, touchhold]
+
+sources:
+  - "Source/Mdrag.js"
+  - "Source/Mslider.js"
